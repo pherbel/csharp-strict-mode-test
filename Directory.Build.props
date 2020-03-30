@@ -1,0 +1,7 @@
+﻿<Project>
+  <PropertyGroup>
+    <LangVersion>latest</LangVersion>
+    <!--<Features>strict</Features>-->
+    <NoWarn>CS0168;CS0169</NoWarn>
+  </PropertyGroup>
+</Project>
